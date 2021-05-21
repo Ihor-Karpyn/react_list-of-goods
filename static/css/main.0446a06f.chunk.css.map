@@ -1,0 +1,1 @@
+{"version":3,"sources":["Goods.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,qBAAsB,CACtB,iBAAkB,CAElB,qBAAuB,CAEvB,cACF,CAEA,WACE,wBACF","file":"main.0446a06f.chunk.css","sourcesContent":[".btn {\n  margin: 0 5px;\n  border: 2px solid blue;\n  border-radius: 10%;\n\n  background-color: white;\n\n  font-size: 15px;\n}\n\n.activeBtn {\n  background-color: lightgreen;\n}\n"]}
